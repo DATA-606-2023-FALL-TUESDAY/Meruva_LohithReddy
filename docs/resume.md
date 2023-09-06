@@ -72,5 +72,4 @@ Technologies:Python(pandas, numpy) plotly, sci-kit-learn, ML
 Algorithms(KNN, Naive Bayes, Logistic Regression, Decision Tree
 
 
-## Interests
-Cricket,Badminton
+
