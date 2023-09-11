@@ -20,26 +20,28 @@ The goal of this research is to better understand how different types of electri
 - What specific attributes within the Electric cars-] data have the highest correlation ?
 - Which city is using highest electric vehicles.
 - Analyzing feauter if Electrical Vehicle models
-- How accurate are the machine learning models in predicting injury diagnosis and location based on the NEISS data?
+- How accurate are the machine learning models in predicting exploration of electric vehicles based on the  Department of Licensing  data?
 
 ## 3. Data 
 -VIN (1-10): Partial vehicle identification number consisting of the first 10 digits.
--County: The county where the vehicle is registered.
--City: The city where the vehicle is registered.
--State: The state where the vehicle is registered.
--Postal Code: The postal code of the vehicle registration location
--Model Year: The year the vehicle was manufactured.
--Make: The manufacturer or brand of the vehicle.
--Model: The specific model of the vehicle.
--Electric Vehicle Type: Indicates whether the vehicle is a Battery Electric Vehicle (BEV) or a Plug-in Hybrid Electric -Vehicle (PHEV).
--Clean Alternative Fuel Vehicle (CAFV) Eligibility: Indicates if the vehicle is eligible for Clean Alternative Fuel Vehicle benefits.
--Electric Range: The range of the vehicle on a full electric charge.
--Base MSRP: The manufacturer's suggested retail price for the vehicle.
--Legislative District: The legislative district associated with the vehicle registration location.
--DOL Vehicle ID: Unique identifier assigned by the Washington State Department of Licensing.
--Vehicle Location: The precise location of the vehicle.
--Electric Utility: The electric utility company associated with the vehicle.
--2020 Census Tract: The census tract where the vehicle is registered.
+- What specific attributes within the Electric cars-] data have the highest correlation ?
+- VIN (1-10): Partial vehicle identification number consisting of the first 10 digits.
+- County: The county where the vehicle is registered.
+- City: The city where the vehicle is registered.
+- State: The state where the vehicle is registered.
+- Postal Code: The postal code of the vehicle registration location
+- Model Year: The year the vehicle was manufactured.
+- Make: The manufacturer or brand of the vehicle.
+- Model: The specific model of the vehicle.
+- Electric Vehicle Type: Indicates whether the vehicle is a Battery Electric Vehicle (BEV) or a Plug-in Hybrid Electric -Vehicle (PHEV)
+- lean Alternative Fuel Vehicle (CAFV) Eligibility: Indicates if the vehicle is eligible for Clean Alternative Fuel Vehicle benefits.
+- Electric Range: The range of the vehicle on a full electric charge.
+- Base MSRP: The manufacturer's suggested retail price for the vehicle.
+- Legislative District: The legislative district associated with the vehicle registration location.
+- DOL Vehicle ID: Unique identifier assigned by the Washington State Department of Licensing.
+- Vehicle Location: The precise location of the vehicle.
+- Electric Utility: The electric utility company associated with the vehicle.
+- 2020 Census Tract: The census tract where the vehicle is registered.
 
 Describe the datasets you are using to answer your research questions.
 
