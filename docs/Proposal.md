@@ -23,7 +23,19 @@ The goal of this research is to better understand how different types of electri
 - How accurate are the machine learning models in predicting exploration of electric vehicles based on the  Department of Licensing  data?
 
 ## 3. Data 
-- VIN (1-10): Partial vehicle identification number consisting of the first 10 digits.
+
+Describe the datasets you are using to answer your research questions.
+
+- **Data sources** - This dataset is collected by a Department of Licensing , which is published by data.wa.gov.
+  - **Dataset Link:** https://catalog.data.gov/dataset/electric-vehicle-population-data 
+- **Data size** - 35.3 MB
+- **Data shape** -
+  - Rows = 143596 
+  - Columns =  17 
+- **Time period** - 2023-08-14
+- **Rows** - Electric Car Details
+- **Data Dictionary**
+-  VIN (1-10): Partial vehicle identification number consisting of the first 10 digits.
 - What specific attributes within the Electric cars-] data have the highest correlation ?
 - VIN (1-10): Partial vehicle identification number consisting of the first 10 digits.
 - County: The county where the vehicle is registered.
@@ -43,17 +55,6 @@ The goal of this research is to better understand how different types of electri
 - Electric Utility: The electric utility company associated with the vehicle.
 - 2020 Census Tract: The census tract where the vehicle is registered.
 
-Describe the datasets you are using to answer your research questions.
-
-- **Data sources** - This dataset is collected by a Department of Licensing , which is published by data.wa.gov.
-  - **Dataset Link:** https://catalog.data.gov/dataset/electric-vehicle-population-data 
-- **Data size** - 35.3 MB
-- **Data shape** -
-  - Rows = 143596 
-  - Columns =  17 
-- **Time period** - 2023-08-14
-- **Rows** - Car Details
-- **Data Dictionary**
 - 
     
   
