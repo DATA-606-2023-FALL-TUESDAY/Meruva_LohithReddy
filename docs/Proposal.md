@@ -1,6 +1,6 @@
 # Capstone Proposal
  
-## 1. Proposal Title: 
+## 1. Proposal Title: Electric Vehicle Classification
 
 - **Author Name** - Lohith Reddy Meruva
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
