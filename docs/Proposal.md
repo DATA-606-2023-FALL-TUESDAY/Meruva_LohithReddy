@@ -23,7 +23,7 @@ The goal of this research is to better understand how different types of electri
 - How accurate are the machine learning models in predicting exploration of electric vehicles based on the  Department of Licensing  data?
 
 ## 3. Data 
--VIN (1-10): Partial vehicle identification number consisting of the first 10 digits.
+- VIN (1-10): Partial vehicle identification number consisting of the first 10 digits.
 - What specific attributes within the Electric cars-] data have the highest correlation ?
 - VIN (1-10): Partial vehicle identification number consisting of the first 10 digits.
 - County: The county where the vehicle is registered.
