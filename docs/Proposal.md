@@ -12,9 +12,9 @@
     
 ## 2. Background
 
-Since the market for EVs is growing, it's important for manufacturers, legislators, and consumers to have a clear understanding of the many kinds of EVs available. For effective infrastructure planning, policymaking, and market segmentation, knowing how many battery electric cars and plug-in hybrid vehicles are on the road at any one time is crucial. This project intends to improve electric vehicle research, development, and decision-making via the creation of an accurate categorization model.
+ Because the EV market is expanding, it's critical for manufacturers, legislators, and consumers to understand the many types of EVs on the market. Knowing how many battery electric and plug-in hybrid vehicles are on the road at any one time is critical for successful infrastructure planning, regulation, and market segmentation. Through the construction of an accurate categorization model, this initiative aims to improve electric vehicle research, development, and decision-making.
 
-The goal of this research is to better understand how different types of electric vehicles are categorized and to develop a classification model that can accurately identify the type of electric vehicle, differentiating between Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV).
+ The purpose of this study is to learn more about the classification of EVs and to create a classification model that can correctly identify the type of EV, distinguishing between BEVs and PHEVs (Battery Electric Vehicles and Plug-in Hybrid Electric Vehicles).
 
 **Research Questions:**
 - What specific attributes within the Electric cars-] data have the highest correlation ?
