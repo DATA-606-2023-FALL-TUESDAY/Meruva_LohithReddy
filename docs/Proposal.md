@@ -17,10 +17,13 @@
  The purpose of this study is to learn more about the classification of EVs and to create a classification model that can correctly identify the type of EV, distinguishing between BEVs and PHEVs (Battery Electric Vehicles and Plug-in Hybrid Electric Vehicles).
 
 **Research Questions:**
-- What specific attributes within the Electric cars-] data have the highest correlation ?
-- Which city is using highest electric vehicles.
-- Analyzing feauter if Electrical Vehicle models
-- How accurate are the machine learning models in predicting exploration of electric vehicles based on the  Department of Licensing  data?
+-Which characteristics of electric vehicles have the strongest associations with one another? The interdependencies and 
+ connections between various aspects may be better understood.
+- Analyzing the distribution of my target variable '**Electric Vehicle Type'** ?
+- Geograhical analysis like ,How does the use of EVs vary from region to region, metro area to metro area, and state to 
+  state? Is there a correlation between distance and the number of EVs on the road?
+- What characteristics of a car determine whether or not it qualifies for the Clean Alternative Fuel car tax break?
+- How does the electric utility provider affect the range of electric cars and whether or not they qualify for incentives?
 
 ## 3. Data 
 
@@ -55,10 +58,10 @@ Describe the datasets you are using to answer your research questions.
 - Electric Utility: The electric utility company associated with the vehicle.
 - 2020 Census Tract: The census tract where the vehicle is registered.
 
-- 
-    
-  
 - Which variables/columns may be selected as features/predictors for your ML models?
+- My Target variable is **Electric Vehicle Type'** and my  feature variables be like 'Make','Model','Electric Range','Clean 
+  Alternative Fuel Vehicle (CAFV) Eligibility','Legislative District','Electric Utility','Location' and after drawing a 
+  heat map we can clearly make the decision which are highly correlated with my target variable 'Electric vehicle Type'. 
 
 ## 4. Exploratory Data Analysis (EDA)
 
