@@ -58,8 +58,7 @@ Describe the datasets you are using to answer your research questions.
 - Electric Utility: The electric utility company associated with the vehicle.
 - 2020 Census Tract: The census tract where the vehicle is registered.
 
-- Which variables/columns may be selected as features/predictors for your ML models?
-- k
+  Which variables/columns may be selected as features/predictors for your ML models?
 - My Target variable is **Electric Vehicle Type'** and my  feature variables be like 'Make','Model','Electric Range','Clean 
   Alternative Fuel Vehicle (CAFV) Eligibility','Legislative District','Electric Utility','Location' and after drawing a 
   heat map we can clearly make the decision which are highly correlated with my target variable 'Electric vehicle Type'. 
