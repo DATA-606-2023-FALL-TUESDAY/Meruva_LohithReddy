@@ -59,10 +59,10 @@ Describe the datasets you are using to answer your research questions.
 - 2020 Census Tract: The census tract where the vehicle is registered.
 
 - Which variables/columns may be selected as features/predictors for your ML models?
-  My Target variable is **Electric Vehicle Type'** and my  feature variables be like 'Make','Model','Electric Range','Clean 
+- My Target variable is **Electric Vehicle Type'** and my  feature variables be like 'Make','Model','Electric Range','Clean 
   Alternative Fuel Vehicle (CAFV) Eligibility','Legislative District','Electric Utility','Location' and after drawing a 
   heat map we can clearly make the decision which are highly correlated with my target variable 'Electric vehicle Type'. 
-
+  
 ## 4. Exploratory Data Analysis (EDA)
 
 - Perform data exploration using Jupyter Notebook
@@ -71,7 +71,6 @@ Describe the datasets you are using to answer your research questions.
   - Missing values?
   - Duplicate rows? 
 - Find out if the data require splitting, merging, pivoting, melting, etc.
--  
 
 ## 5. Model Training 
 
