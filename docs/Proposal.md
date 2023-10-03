@@ -53,7 +53,7 @@ Describe the datasets you are using to answer your research questions.
 
   Which variables/columns may be selected as features/predictors for your ML models?
 
-  Target Variable: Landing Count (Monthly landing counts at SFO)
+  **Target Variable**: Landing Count (Monthly landing counts at SFO)
 ## 4. Exploratory Data Analysis (EDA)
 
 - Perform data exploration using Jupyter Notebook
