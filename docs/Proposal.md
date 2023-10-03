@@ -18,6 +18,7 @@ In recent years, advances in data analytics and machine learning have made it po
 
 
 **Research Questions:**
+
 -Seasonal Trends: Are there seasonal patterns in airport activity? If so, which months or times of year exhibit the highest levels of activity?
 
 -Airline Influence: What airlines have the most effects on airport activity, and how do their numbers or the overall weight of landed cargo correlate to their presence?
