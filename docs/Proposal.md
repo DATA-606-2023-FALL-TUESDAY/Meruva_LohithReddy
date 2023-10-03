@@ -33,10 +33,10 @@ Describe the datasets you are using to answer your research questions.
   - **Dataset Link:**  
 - **Data size** - 35.3 MB
 - **Data shape** -
-  - Rows = 143596 
-  - Columns =  17 
-- **Time period** - 2023-08-14
-- **Rows** - Electric Car Details
+  - Rows = 30106
+  - Columns =14
+- **Time period** -2005-2023
+- **Rows** - 
 - **Data Dictionary**
 -  Activity Period (timestamp)
 -  Operating Airline
