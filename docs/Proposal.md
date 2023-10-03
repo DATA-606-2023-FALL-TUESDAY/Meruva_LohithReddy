@@ -1,6 +1,6 @@
 # Capstone Proposal
  
-## 1. Proposal Title: Electric Vehicle Classification
+## 1. Proposal Title:"Forecasting Airport Traffic: A Data-Driven Approach for the San Francisco International Airport"
 
 - **Author Name** - Lohith Reddy Meruva
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
@@ -12,25 +12,25 @@
     
 ## 2. Background
 
- Because the EV market is expanding, it's critical for manufacturers, legislators, and consumers to understand the many types of EVs on the market. Knowing how many battery electric and plug-in hybrid vehicles are on the road at any one time is critical for successful infrastructure planning, regulation, and market segmentation. Through the construction of an accurate categorization model, this initiative aims to improve electric vehicle research, development, and decision-making.
+ Global logistics and transportation are greatly impacted by the aviation sector. For airport management, resource allocation, and capacity planning, it is essential to understand and plan for airport activities, such as the number of aircraft landings and the total weight of aircraft landed. Being a significant hub, San Francisco International Airport (SFO) generates a lot of operational data, including details on airlines, aircraft classes, and landing statistics. In order to estimate airport activity at SFO, this project will use data science and machine learning, offering insightful information to airport stakeholders.
 
- The purpose of this study is to learn more about the classification of EVs and to create a classification model that can correctly identify the type of EV, distinguishing between BEVs and PHEVs (Battery Electric Vehicles and Plug-in Hybrid Electric Vehicles).
+In recent years, advances in data analytics and machine learning have made it possible to build accurate predictive models for various applications, including time series forecasting. In order to construct a prediction model that may predict future landing counts or total landed weight at SFO, this project will analyze historical data on airport landings and associated variables. It will also study temporal and location. patterns.
+
 
 **Research Questions:**
--Which characteristics of electric vehicles have the strongest associations with one another? The interdependencies and 
- connections between various aspects may be better understood.
-- Analyzing the distribution of my target variable '**Electric Vehicle Type'** ?
-- Geograhical analysis like ,How does the use of EVs vary from region to region, metro area to metro area, and state to 
-  state? Is there a correlation between distance and the number of EVs on the road?
-- What characteristics of a car determine whether or not it qualifies for the Clean Alternative Fuel car tax break?
-- How does the electric utility provider affect the range of electric cars and whether or not they qualify for incentives?
+-Seasonal Trends: Are there seasonal patterns in airport activity? If so, which months or times of year exhibit the highest levels of activity?
+
+-Airline Influence: What airlines have the most effects on airport activity, and how do their numbers or the overall weight of landed cargo correlate to their presence?
+
+-Aircraft Types: What sorts of aircraft, in terms of the number of landings and overall weight, contribute the most to airport activity?
+-Correlations: What relationships exist between certain characteristics (such as landing count or total landed weight) and the desired variable (such as landing count or total landed weight)?
 
 ## 3. Data 
 
 Describe the datasets you are using to answer your research questions.
 
-- **Data sources** - This dataset is collected by a Department of Licensing , which is published by data.wa.gov.
-  - **Dataset Link:** https://catalog.data.gov/dataset/electric-vehicle-population-data 
+- **Data sources** - 
+  - **Dataset Link:**  
 - **Data size** - 35.3 MB
 - **Data shape** -
   - Rows = 143596 
@@ -38,32 +38,22 @@ Describe the datasets you are using to answer your research questions.
 - **Time period** - 2023-08-14
 - **Rows** - Electric Car Details
 - **Data Dictionary**
--  VIN (1-10): Partial vehicle identification number consisting of the first 10 digits.
-- What specific attributes within the Electric cars-] data have the highest correlation ?
-- VIN (1-10): Partial vehicle identification number consisting of the first 10 digits.
-- County: The county where the vehicle is registered.
-- City: The city where the vehicle is registered.
-- State: The state where the vehicle is registered.
-- Postal Code: The postal code of the vehicle registration location
-- Model Year: The year the vehicle was manufactured.
-- Make: The manufacturer or brand of the vehicle.
-- Model: The specific model of the vehicle.
-- Electric Vehicle Type: Indicates whether the vehicle is a Battery Electric Vehicle (BEV) or a Plug-in Hybrid Electric -Vehicle (PHEV)
-- lean Alternative Fuel Vehicle (CAFV) Eligibility: Indicates if the vehicle is eligible for Clean Alternative Fuel Vehicle benefits.
-- Electric Range: The range of the vehicle on a full electric charge.
-- Base MSRP: The manufacturer's suggested retail price for the vehicle.
-- Legislative District: The legislative district associated with the vehicle registration location.
-- DOL Vehicle ID: Unique identifier assigned by the Washington State Department of Licensing.
-- Vehicle Location: The precise location of the vehicle.
-- Electric Utility: The electric utility company associated with the vehicle.
-- 2020 Census Tract: The census tract where the vehicle is registered.
+-  Activity Period (timestamp)
+-  Operating Airline
+-  Operating Airline IATA Code.
+-  Published Airline
+-  Published Airline IATA Code
+- 	GEO Summary.
+-  GEO Region
+-  Landing Aircraft Type
+-  Aircraft Body Type
+- 	Aircraft Manufacturer
+- 	Aircraft Model
+- 	Aircraft Version
 
   Which variables/columns may be selected as features/predictors for your ML models?
 
-  My Target variable is **Electric Vehicle Type'** and my  feature variables be like 'Make','Model','Electric Range','Clean 
-  Alternative Fuel Vehicle (CAFV) Eligibility','Legislative District','Electric Utility','Location' and after drawing a 
-  heat map we can clearly make the decision which are highly correlated with my target variable 'Electric vehicle Type'. 
-  
+  Target Variable: Landing Count (Monthly landing counts at SFO)
 ## 4. Exploratory Data Analysis (EDA)
 
 - Perform data exploration using Jupyter Notebook
