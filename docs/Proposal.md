@@ -17,7 +17,7 @@ The goal of this research is to use data collected from the "Ease My Trip" websi
 
 **Research Questions:**
 
-- **Price Varition**:Price variation Analysis through out the day?
+-**Price Varition**:Price variation Analysis through out the day?
 
 -**Duration Price Analysis**:Does duration impacts on the  fare price or not?
 
