@@ -17,13 +17,14 @@ The goal of this research is to use data collected from the "Ease My Trip" websi
 
 **Research Questions:**
 
--**Seasonal Trends:** Are there seasonal patterns in airport activity? If so, which months or times of year exhibit the highest levels of activity?
+- Price variation Analysis through out the day?
 
--**Airline Influence**: What airlines have the most effects on airport activity, and how do their numbers or the overall weight of landed cargo correlate to their presence?
+-**Duration Price Analysis**:Does duration impacts on the  fare price or not?
 
--**Aircraft Types**: What sorts of aircraft, in terms of the number of landings and overall weight, contribute the most to airport activity?
+- **Monthly Fare Analysis**:Which month is having is more fare charges? 
+-**Airline Price Analysis**: Which airlines is having more fare?
 
--**Correlations**: What relationships exist between certain characteristics (such as landing count or total landed weight) and the desired variable (such as landing count or total landed weight)?
+-**Correlations**: Which feautre is impacting more to my target variable Price?
 
 ## 3. Data 
 
@@ -32,7 +33,7 @@ Describe the datasets you are using to answer your research questions.
 - **Data sources** - This data set is taken from “Ease My Trip”
 - **Dataset Link** - https://www.kaggle.com/datasets/jillanisofttech/flight-price-prediction-dataset
 - **Data size** - 
-- **Data shape** -
+- **Data shape** -(10462,11)
   - Rows = 10462
   - Columns =11
 - **Time period** -January2019-Decemeber 2019
