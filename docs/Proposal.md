@@ -38,7 +38,10 @@ Describe the datasets you are using to answer your research questions.
   - Rows = 10462
   - Columns =11
 - **Time period** -January2019-Decemeber 2019
-- **Rows** - 
+- **Rows** - Each row describes about the flight fare ticket details.
+- 
+- ## 3. Data Dictionary
+- 
 - **Data Dictionary**
 -  Airline:Type of Airline
 -  Date_of_Journey
