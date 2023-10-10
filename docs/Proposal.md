@@ -21,7 +21,8 @@ The goal of this research is to use data collected from the "Ease My Trip" websi
 
 -**Duration Price Analysis**:Does duration impacts on the  fare price or not?
 
-- **Monthly Fare Analysis**:Which month is having is more fare charges? 
+- **Monthly Fare Analysis**:Which month is having is more fare charges?
+  
 -**Airline Price Analysis**: Which airlines is having more fare?
 
 -**Correlations**: Which feautre is impacting more to my target variable Price?
