@@ -1,6 +1,6 @@
 # Capstone Proposal
  
-## 1. Proposal Title:"Forecasting Airport Traffic: A Data-Driven Approach for the San Francisco International Airport"
+## 1. Proposal Title:"Flight Fare Prediction"
 
 - **Author Name** - Lohith Reddy Meruva
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
@@ -11,11 +11,9 @@
 - **YouTube video** - In Progress 
     
 ## 2. Background
+ Since travel has become so important in our modern lives, finding cheap airline tickets is a top priority for many of us. The cost of a plane ticket might fluctuate depending on a number of variables such as the airline, the time of year, when the flight leaves, and what cabin class you're looking for. The ability to recognize the underlying trends in aircraft ticket price is very useful for travelers looking for economical and time-saving methods of planning their trips.
 
- Global logistics and transportation are greatly impacted by the aviation sector. For airport management, resource allocation, and capacity planning, it is essential to understand and plan for airport activities, such as the number of aircraft landings and the total weight of aircraft landed. Being a significant hub, San Francisco International Airport (SFO) generates a lot of operational data, including details on airlines, aircraft classes, and landing statistics. In order to estimate airport activity at SFO, this project will use data science and machine learning, offering insightful information to airport stakeholders.
-
-In recent years, advances in data analytics and machine learning have made it possible to build accurate predictive models for various applications, including time series forecasting. In order to construct a prediction model that may predict future landing counts or total landed weight at SFO, this project will analyze historical data on airport landings and associated variables. It will also study temporal and location. patterns.
-
+The goal of this research is to use data collected from the "Ease My Trip" website to better understand the complex dynamics at play in the airfare market. Not only do we want to be able to properly estimate flight costs, but we also want to be able to uncover important information that will aid passengers in their pursuit of affordable and convenient travel alternatives.
 
 **Research Questions:**
 
@@ -31,31 +29,30 @@ In recent years, advances in data analytics and machine learning have made it po
 
 Describe the datasets you are using to answer your research questions.
 
-- **Data sources** - https://www.flysfo.com/about/media/facts-statistics/air-traffic-statistics
-- **Dataset Link** - https://data.sfgov.org/Transportation/Air-Traffic-Landings-Statistics/fpux-q53t
-- **Data size** - 35.3 MB
+- **Data sources** - This data set is taken from “Ease My Trip”
+- **Dataset Link** - https://www.kaggle.com/datasets/jillanisofttech/flight-price-prediction-dataset
+- **Data size** - 
 - **Data shape** -
-  - Rows = 30106
-  - Columns =14
-- **Time period** -2005-2023
+  - Rows = 10462
+  - Columns =11
+- **Time period** -January2019-Decemeber 2019
 - **Rows** - 
 - **Data Dictionary**
--  Activity Period (timestamp)
--  Operating Airline
--  Operating Airline IATA Code.
--  Published Airline
--  Published Airline IATA Code
-- 	GEO Summary.
--  GEO Region
--  Landing Aircraft Type
--  Aircraft Body Type
-- 	Aircraft Manufacturer
-- 	Aircraft Model
-- 	Aircraft Version
+-  Airline:Type of Airline
+-  Date_of_Journey
+-  Source
+-  Destination
+-  Route
+-  Dep_Time
+-  Arrival_Time
+-  Duration
+-  Total_Stops
+-  Additional_Info
+-  Price
 
   Which variables/columns may be selected as features/predictors for your ML models?
 
-  **Target Variable**: Landing Count (Monthly landing counts at SFO)
+  **Target Variable**: Price 
 ## 4. Exploratory Data Analysis (EDA)
 
 - Perform data exploration using Jupyter Notebook
