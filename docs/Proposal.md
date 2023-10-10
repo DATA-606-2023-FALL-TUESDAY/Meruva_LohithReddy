@@ -1,7 +1,7 @@
 # Capstone Proposal
  
 ## 1. Proposal Title:"Flight Fare Prediction"
-
+![FLIGHT]()
 - **Author Name** - Lohith Reddy Meruva
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - <a href="https://www.linkedin.com/in/lohithreddy007/"><img align="left" src="https://img.shields.io/badge/-GitHub-CD5C5C?logo=github&style=flat" alt="icon | LinkedIn"/></a> 
