@@ -52,11 +52,11 @@ Describe the datasets you are using to answer your research questions.
 -  Duration
 -  Total_Stops
 -  Additional_Info
--  Price
+-  Price(The fare is mentioned in INR)
 
   Which variables/columns may be selected as features/predictors for your ML models?
 
-  **Target Variable**: Price 
+  **Target Variable**: Price (INR)
 ## 4. Exploratory Data Analysis (EDA)
 
 - Perform data exploration using Jupyter Notebook
