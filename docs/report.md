@@ -82,7 +82,6 @@ ii) **Exploratory Data Analysis**
 > pattern could inform airline scheduling and fare strategies.
 >
 >![newplot (7)](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/c9f62a23-7c8d-4b9e-88f4-69a81cddbdee)
-> **Fig 4.3**
 >
 > The scatter plot shows the relationship between the total duration of
 > flights in minutes and their prices in INR, with different colors
@@ -95,8 +94,6 @@ ii) **Exploratory Data Analysis**
 > stops) reaching the highest prices.
 >
 >![newplot (8)](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/6d5484ca-1241-4c92-b54a-b11fd0097c26)
-
-> **Fig 4.4**
 >
 > The boxplot graphically depicts the distribution of prices for
 > different airlines and classes. Each box represents the interquartile
@@ -110,8 +107,6 @@ ii) **Exploratory Data Analysis**
 > positioned at higher price points.
 
 >![newplot (9)](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/38cbc8a2-d2c2-4815-b3d9-7aaede274dfe)
-
-> **Fig 4.5**
 >
 > January shows the highest mean price, suggesting it might be a peak
 > travel period, possibly due to holidays or festivals. April has the
@@ -128,10 +123,8 @@ iii) Feature Engineering
 > 0.974, respectively. Source cities, duration, and timing of the flight
 > also impact prices to a lesser degree, while the travel date and year
 > offer minimal to negligible predictability.
->
-> ![A screenshot of a computer Description automatically
-> generated](vertopal_0924b84490584848929f84d5bf04745c/media/image6.png){width="2.3541666666666665in"
-> height="1.9108661417322834in"}
+><img width="411" alt="Picture1" src="https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/9aefa3dd-73ae-4d9e-9a2b-6aa4dc27e64d">
+
 
 iv) Model Selection & Training
 
