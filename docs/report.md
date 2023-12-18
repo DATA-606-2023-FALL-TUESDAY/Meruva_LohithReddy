@@ -1,4 +1,4 @@
-                                       **[CAPSTONE IN DATA SCIENCE]**
+                         **[CAPSTONE IN DATA SCIENCE]**
 
 **Project: Flight Price Prediction**
 
