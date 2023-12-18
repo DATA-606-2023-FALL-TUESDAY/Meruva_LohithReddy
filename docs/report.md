@@ -1,4 +1,4 @@
-                         **[CAPSTONE IN DATA SCIENCE]**
+# DATA606 - Capstone Project
 
 **Project: Flight Price Prediction**
 
