@@ -65,19 +65,11 @@ ii) **Exploratory Data Analysis**
 - The EDA involves data loading, cleaning, and preprocessing steps, such as handling missing values and converting date and time formats. The analysis creates derived features from the dataset, which includes information like the airline, date of journey, source, destination, route, departure time, arrival time, duration, total stops, additional info, and price. Key aspects of the EDA include grouping data by airlines to observe price variations and examining the impact of weekends on prices. The report also investigates price variation throughout the day by categorizing flight departure times and analyzing their frequency. This comprehensive approach helps in understanding the factors influencing airline ticket prices, setting a foundation for further modeling and prediction tasks.
 > 
 ![download](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/ada3f2d3-5ddf-4df2-8904-23f5d6efa96a)
-
-
-> **Fig 4.1**
 >
-> For most airlines, ticket prices are consistent across weekdays and
-> weekends. However, there is a significant increase in price for the
-> Jet Airways Business class on weekends. This suggests a demand-based
-> pricing strategy, where prices for certain premium services are raised
-> on weekends, possibly due to higher demand or reduced availability.
+> For most airlines, ticket prices are consistent across weekdays and weekends. However, there is a significant increase in price for the Jet Airways Business class on weekends. This suggests a demand-based pricing strategy, where prices for certain premium services are raised on weekends, possibly due to higher demand or reduced availability.
 >
 >
 > ![newplot (6)](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/d7792e28-a7f6-4820-a8e9-679aa3148d2f)
-**Fig. 4.2**
 >
 > The bar chart illustrates the distribution of flight departures across
 > different times of the day. The \'Early Morning\' period has the
