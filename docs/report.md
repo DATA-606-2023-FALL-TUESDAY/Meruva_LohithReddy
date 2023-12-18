@@ -8,7 +8,7 @@
 
 [**https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/blob/main/docs/Capstone_Final.pptx**](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/blob/main/docs/Capstone_Final.pptx)
 
-## 1.Introduction**
+## 1.Introduction
 
 In the dynamic and competitive world of air travel, understanding the
 factors influencing airline ticket pricing is crucial for both consumers
@@ -23,7 +23,7 @@ insights into current pricing strategies but also serves as a predictive
 tool for future fare trends, thereby aiding decision-making processes
 for stakeholders in the airline industry.
 
-## 2. Research Questions**
+## 2. Research Questions
 
 i)  Do the timings of departure and arrival have an impact on the cost
     of a ticket?
@@ -43,7 +43,7 @@ vi) Does the price vary depending on the number of stops?
 
 vii) Which variables most affect the price?
 
-## 3.Dataset Information**
+## 3.Dataset Information
 
 The dataset used for the flight price prediction project comprises
 various attributes collected to understand and predict airfare trends.
@@ -189,7 +189,7 @@ iv) Model Selection & Training
 > Random Forest Regressor gives a maximum R2 score of 95.45 and a
 > maximum cross-validation score.
 
-## 5. Limitations & Future Scope:**
+## 5. Limitations & Future Scope:
 
 -   In this study we focus on flights on one year of data and more data
     can be incorporated in this project to extend it beyond the present
@@ -213,7 +213,7 @@ iv) Model Selection & Training
     to decide whether to book a ticket now or later. On working with
     different models
 
-## 6. Takeaway Points**
+## 6. Takeaway Points
 
 i.  The model that gives the best result is the Random Forest Regressor
     with on the train dataset on R\^2 score equals to 0.9547.
@@ -238,7 +238,7 @@ vi. January shows the highest mean price, suggesting it might be a peak
     travel period, possibly due to holidays or festivals. April has the
     lowest mean price, indicating a potential low season for travel.
 
-## 7. References**
+## 7. References
 
 i.  Masoud Soroush 602 Notes
 
