@@ -64,7 +64,8 @@ i)  **Data Preprocessing**
 ii) **Exploratory Data Analysis**
 - The EDA involves data loading, cleaning, and preprocessing steps, such as handling missing values and converting date and time formats. The analysis creates derived features from the dataset, which includes information like the airline, date of journey, source, destination, route, departure time, arrival time, duration, total stops, additional info, and price. Key aspects of the EDA include grouping data by airlines to observe price variations and examining the impact of weekends on prices. The report also investigates price variation throughout the day by categorizing flight departure times and analyzing their frequency. This comprehensive approach helps in understanding the factors influencing airline ticket prices, setting a foundation for further modeling and prediction tasks.
 > 
->![newplot (6)](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/29794adb-2a37-4880-a290-ea5c40b30486)
+![download](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/ada3f2d3-5ddf-4df2-8904-23f5d6efa96a)
+
 
 > **Fig 4.1**
 >
@@ -74,11 +75,9 @@ ii) **Exploratory Data Analysis**
 > pricing strategy, where prices for certain premium services are raised
 > on weekends, possibly due to higher demand or reduced availability.
 >
-> ![A graph of a graph Description automatically generated with medium
-> confidence](vertopal_0924b84490584848929f84d5bf04745c/media/image2.png){width="5.298611111111111in"
-> height="2.8271784776902886in"}
 >
-> **Fig. 4.2**
+> ![newplot (6)](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/d7792e28-a7f6-4820-a8e9-679aa3148d2f)
+**Fig. 4.2**
 >
 > The bar chart illustrates the distribution of flight departures across
 > different times of the day. The \'Early Morning\' period has the
@@ -90,10 +89,7 @@ ii) **Exploratory Data Analysis**
 > lower demand and operational constraints during late hours. This
 > pattern could inform airline scheduling and fare strategies.
 >
-> ![A graph showing different colored dots Description automatically
-> generated](vertopal_0924b84490584848929f84d5bf04745c/media/image3.png){width="5.492357830271216in"
-> height="2.9305555555555554in"}
->
+>![newplot (7)](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/c9f62a23-7c8d-4b9e-88f4-69a81cddbdee)
 > **Fig 4.3**
 >
 > The scatter plot shows the relationship between the total duration of
@@ -106,11 +102,8 @@ ii) **Exploratory Data Analysis**
 > price, with some long-duration flights (especially those with 3 or 4
 > stops) reaching the highest prices.
 >
-> ![A graph of a graph with text Description automatically generated
-> with medium
-> confidence](vertopal_0924b84490584848929f84d5bf04745c/media/image4.png){width="5.6094936570428695in"
-> height="2.9930555555555554in"}
->
+>![newplot (8)](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/6d5484ca-1241-4c92-b54a-b11fd0097c26)
+
 > **Fig 4.4**
 >
 > The boxplot graphically depicts the distribution of prices for
@@ -123,12 +116,9 @@ ii) **Exploratory Data Analysis**
 > categories. This visual suggests variability in pricing strategies
 > among different airlines and classes, with business classes generally
 > positioned at higher price points.
->
-> ![A graph of blue rectangular shapes Description automatically
-> generated with medium
-> confidence](vertopal_0924b84490584848929f84d5bf04745c/media/image5.png){width="5.661554024496938in"
-> height="3.0208333333333335in"}
->
+
+>![newplot (9)](https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/38cbc8a2-d2c2-4815-b3d9-7aaede274dfe)
+
 > **Fig 4.5**
 >
 > January shows the highest mean price, suggesting it might be a peak
