@@ -58,24 +58,11 @@ with accuracy.
 
 ## 4. Methodology
 
-i)  Data Preprocessing
+i)  **Data Preprocessing**
 - The 'Date_of_Journey' is converted into separate day and month columns to better understand seasonal trends. The flight duration is split into hours and minutes for a more granular analysis. Airlines, source, and destination data are processed to create distinct categories, which helps in understanding the influence of these variables on ticket prices.
 
-ii) Exploratory Data Analysis
-
-> The EDA involves data loading, cleaning, and preprocessing steps, such
-> as handling missing values and converting date and time formats. The
-> analysis creates derived features from the dataset, which includes
-> information like the airline, date of journey, source, destination,
-> route, departure time, arrival time, duration, total stops, additional
-> info, and price. Key aspects of the EDA include grouping data by
-> airlines to observe price variations and examining the impact of
-> weekends on prices. The report also investigates price variation
-> throughout the day by categorizing flight departure times and
-> analyzing their frequency. This comprehensive approach helps in
-> understanding the factors influencing airline ticket prices, setting a
-> foundation for further modeling and prediction tasks.
->
+ii) **Exploratory Data Analysis**
+- The EDA involves data loading, cleaning, and preprocessing steps, such as handling missing values and converting date and time formats. The analysis creates derived features from the dataset, which includes information like the airline, date of journey, source, destination, route, departure time, arrival time, duration, total stops, additional info, and price. Key aspects of the EDA include grouping data by airlines to observe price variations and examining the impact of weekends on prices. The report also investigates price variation throughout the day by categorizing flight departure times and analyzing their frequency. This comprehensive approach helps in understanding the factors influencing airline ticket prices, setting a foundation for further modeling and prediction tasks.
 > ![A graph of different colored bars Description automatically
 > generated with medium
 > confidence](vertopal_0924b84490584848929f84d5bf04745c/media/image1.png){width="5.1957425634295715in"
