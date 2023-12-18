@@ -59,13 +59,7 @@ with accuracy.
 ## 4. Methodology
 
 i)  Data Preprocessing
-
-> The \'Date_of_Journey\' is converted into separate day and month
-> columns to better understand seasonal trends. The flight duration is
-> split into hours and minutes for a more granular analysis. Airlines,
-> source, and destination data are processed to create distinct
-> categories, which helps in understanding the influence of these
-> variables on ticket prices.
+- The 'Date_of_Journey' is converted into separate day and month columns to better understand seasonal trends. The flight duration is split into hours and minutes for a more granular analysis. Airlines, source, and destination data are processed to create distinct categories, which helps in understanding the influence of these variables on ticket prices.
 
 ii) Exploratory Data Analysis
 
