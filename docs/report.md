@@ -123,7 +123,6 @@ iii) Feature Engineering
 > 0.974, respectively. Source cities, duration, and timing of the flight
 > also impact prices to a lesser degree, while the travel date and year
 > offer minimal to negligible predictability.
-><img width="411" alt="Picture1" src="https://github.com/DATA-606-2023-FALL-TUESDAY/Meruva_LohithReddy/assets/38403286/9aefa3dd-73ae-4d9e-9a2b-6aa4dc27e64d">
 
 
 iv) Model Selection & Training
